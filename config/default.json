@@ -1,0 +1,4 @@
+{
+    "MongodbUrl": "mongodb+srv://goa:goa@contact-keeper.tt8qu.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
